@@ -12,6 +12,11 @@
 
   <name>Plexus Digest / Hashcode Components</name>
 
+  <scm>
+    <connection>scn:git:git@github.com:sonatype/plexus-digest.git</connection>
+    <developerConnection>scn:git:git@github.com:sonatype/plexus-digest.git</developerConnection>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>

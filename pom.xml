@@ -13,8 +13,8 @@
   <name>Plexus Digest / Hashcode Components</name>
 
   <scm>
-    <connection>scn:git:git@github.com:sonatype/plexus-digest.git</connection>
-    <developerConnection>scn:git:git@github.com:sonatype/plexus-digest.git</developerConnection>
+    <connection>scm:git:git@github.com:sonatype/plexus-digest.git</connection>
+    <developerConnection>scm:git:git@github.com:sonatype/plexus-digest.git</developerConnection>
   </scm>
 
   <dependencies>

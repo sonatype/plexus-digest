@@ -13,9 +13,15 @@
   <name>Plexus Digest / Hashcode Components</name>
 
   <scm>
-    <connection>scm:git:git@github.com:sonatype/plexus-digest.git</connection>
-    <developerConnection>scm:git:git@github.com:sonatype/plexus-digest.git</developerConnection>
+    <connection>scm:git:git@github.com:codehaus-plexus/plexus-digest.git</connection>
+    <developerConnection>scm:git:git@github.com:codehaus-plexus/plexus-digest.git</developerConnection>
+    <url>http://github.com/codehaus-plexus/plexus-digest</url>
+    <tag>HEAD</tag>
   </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>http://github.com/codehaus-plexus/plexus-digest/issues</url>
+  </issueManagement>
 
   <dependencies>
     <dependency>
